@@ -1,0 +1,1 @@
+This project uses the mortality and birth data from 2013-2023 available from the CDC here: https://www.cdc.gov/nchs/data_access/vitalstatsonline.htm#Mortality_Multiple https://www.cdc.gov/nchs/data_access/vitalstatsonline.htm#Births
